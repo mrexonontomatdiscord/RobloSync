@@ -1,0 +1,33 @@
+# Privacy Policy
+Last Updated: [04/09/2025]
+## 1. Introduction
+This Privacy Policy explains how RobloSync (“Bot”) collects, uses, and stores user data within Discord. By using this bot, you agree to the terms outlined below.
+## 2. Information Collected
+RobloSync collects and stores minimal user data necessary for bot functionality, including:
+- Discord User IDs to verify Roblox accounts
+- Bound groups and ranks for role management
+- Verification status for automated role assignments
+
+## 3. How Data Is Stored & Protected
+- Data is stored locally in JSON files on the bot's hosting environment.
+- No sensitive personal data (e.g., email addresses, passwords) is collected or stored.
+- The bot does not share, sell, or distribute user data to third parties.
+- Data may be reset or removed when the bot updates or if required by Discord.
+
+## 4. Data Usage
+RobloSync only uses collected data for:
+- Managing Discord role assignments
+- Binding users to Roblox groups or ranks
+- Processing verification requests
+- Improving bot functionality
+
+## 5. User Rights & Data Removal
+Users may request removal of their stored data by contacting the bot owner. Upon request, the bot owner will:
+- Delete stored user verification data
+- Remove bound roles from Discord servers
+- Stop processing verification requests for the user
+
+## 6. Changes to Policy
+This Privacy Policy may be updated periodically. Continued use of the bot after updates indicates agreement with any changes.
+## 7. Contact & Support
+For inquiries, data requests, or support, please contact [@.exonontom].
